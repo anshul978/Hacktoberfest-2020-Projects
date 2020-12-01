@@ -12,7 +12,7 @@ elif operator == "/":
 elif operator == "-":
   print(num1-num2)
 else:
-  print("Operater not found")
+  print("Operater didn't found")
   =======
 # This function adds two numbers
 def add(x, y):
@@ -31,7 +31,7 @@ def divide(x, y):
     return x / y
 
 
-print("Select operation.")
+print("Select operation: ")
 print("1.Add")
 print("2.Subtract")
 print("3.Multiply")
